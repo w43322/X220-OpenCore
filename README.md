@@ -1,5 +1,7 @@
 # X220-OpenCore
 
+![](http://x220.mcdonnelltech.com/wp-content/uploads/2017/06/x220_High_Sierra.jpg)
+
 ## Who is this repo for
 
 Those who want to install ONLY `macOS` on their machine. If you intend to install other OSes as well, head to the [X220-Opencore-Dualboot](https://github.com/w43322/X220-OpenCore-Dualboot) repo.
