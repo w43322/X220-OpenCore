@@ -12,7 +12,7 @@ Those who want to install ONLY `macOS` on their machine. If you intend to instal
 
 #### Installing macOS
 
-1. Make a Installation USB Drive per [Dortania's guide](https://dortania.github.io/OpenCore-Install-Guide/). Install `macOS High Sierra` on the X220. And make sure to leave some space for `Windows` while partitioning.
+1. Make a Installation USB Drive per [Dortania's guide](https://dortania.github.io/OpenCore-Install-Guide/). Install `macOS High Sierra` on the X220.
 
 #### Optimizing macOS
 
