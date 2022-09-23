@@ -42,7 +42,7 @@ Well, I actually followed [Dortania's guide](https://dortania.github.io/OpenCore
 * CTRL+Enter in the OpenCore bootpicker updates or creates NVRAM/nvram.plist.
 ```
 
-4. Using `DSDT.aml` from [mcdonnelltech](x220.mcdonnelltech.com) to fix audio and battery readouts, instead of custom `SSDT`s.
+4. Using `DSDT.aml` from [mcdonnelltech](httpshttps://x220.mcdonnelltech.com//) to fix audio and battery readouts, instead of custom `SSDT`s.
 I know this is not a good practice, but currently I can't spare the time and energy to reverse engineer every patch done to the `DSDT` and make seperate `SSDT` patches.
 If the custom `SSDT`s are made, we can ditch `rEFInd` and use `OpenCore` to boot all OSes, which is a lot cleaner.
 If anyone is interested in doing this, you're welcomed to fork this repo or create PRs.
@@ -58,6 +58,6 @@ If anyone is interested in doing this, you're welcomed to fork this repo or crea
 | AppleALC             | 1.7.5            |
 | WhateverGreen        | 1.6.1            |
 | VirtualSMC & modules | 1.3.0            |
-| VoodooPS2Controller  | Modded from [mcdonnelltech](x220.mcdonnelltech.com) |
-| DSDT.aml             | from [mcdonnelltech](x220.mcdonnelltech.com) |
+| VoodooPS2Controller  | Modded from [mcdonnelltech](https://x220.mcdonnelltech.com/) |
+| DSDT.aml             | from [mcdonnelltech](https://x220.mcdonnelltech.com/) |
 | SSDT-PM.aml          | Generated using [ssdtPRGen](https://github.com/Piker-Alpha/ssdtPRGen.sh) on X220i / i3-2310M |
