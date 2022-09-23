@@ -1,6 +1,6 @@
-# X220-OpenCore
+# Lenovo Thinkpad X220 OpenCore Adoption Guide
 
-![](http://x220.mcdonnelltech.com/wp-content/uploads/2017/06/x220_High_Sierra.jpg)
+![](./x220_High_Sierra.jpg)
 
 ## Who is this repo for
 
