@@ -6,6 +6,10 @@ Those who want to install ONLY `macOS` on their machine. If you intend to instal
 
 ## TLDR
 
+#### Flashing BIOS
+
+1. Flash the modified BIOS under Windows. Instructions are provided in the zip file.
+
 #### Installing macOS
 
 1. Make a Installation USB Drive per [Dortania's guide](https://dortania.github.io/OpenCore-Install-Guide/). Install `macOS High Sierra` on the X220. And make sure to leave some space for `Windows` while partitioning.
@@ -53,6 +57,7 @@ If anyone is interested in doing this, you're welcomed to fork this repo or crea
 
 | Binary               | Version / Source |
 | -------------------- | ---------------- |
+| Modified 1.46 BIOS   | from [mcdonnelltech](https://x220.mcdonnelltech.com/) |
 | OpenCore             | 0.8.4            |
 | Lilu                 | 1.6.2            |
 | AppleALC             | 1.7.5            |
